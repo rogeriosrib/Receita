@@ -3,7 +3,7 @@
  ![](./imagem/brownie.png)
 
  ## Projeto
- Minha primeira página web, criado durante a disciplina de Linguagem de Marcação do curso na escola SENAI Jandira.
+ Minha primeira página web usando o codepen.io, criado durante a disciplina de Linguagem de Marcação do curso na escola SENAI Jandira.
 
 
  
